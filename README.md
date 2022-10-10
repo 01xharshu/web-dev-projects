@@ -12,4 +12,4 @@ Projects!
 - [Code with Mosh](https://www.youtube.com/c/programmingwithmosh/)
 - [Codedamn](https://www.youtube.com/c/codedamn/)
 - [Code with Harry](https://www.youtube.com/c/CodeWithHarry/)
-- 
+- [Telusko](https://www.youtube.com/c/Telusko/)
