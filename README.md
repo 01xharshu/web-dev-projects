@@ -16,3 +16,6 @@ Projects!
 - [Telusko](https://www.youtube.com/c/Telusko/)
 
 # Websites You Should Know
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [CSS-Tricks](https://css-tricks.com/)
+
