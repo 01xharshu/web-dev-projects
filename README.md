@@ -7,3 +7,9 @@ Projects!
 
 # YouTube Channels
 - [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/)
+- [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha/)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/)
+- [Code with Mosh](https://www.youtube.com/c/programmingwithmosh/)
+- [Codedamn](https://www.youtube.com/c/codedamn/)
+- [Code with Harry](https://www.youtube.com/c/CodeWithHarry/)
+- 
