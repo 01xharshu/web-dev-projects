@@ -6,4 +6,4 @@ Projects!
 - [👩🏻‍💻 YouTube Channels](#youtube-channels)
 
 # YouTube Channels
-- [FreeCodeCamp](https://codeanywhere.com/)
+- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/)
