@@ -14,8 +14,11 @@ Projects!
 - [Codedamn](https://www.youtube.com/c/codedamn/)
 - [Code with Harry](https://www.youtube.com/c/CodeWithHarry/)
 - [Telusko](https://www.youtube.com/c/Telusko/)
+- [Dave Grey](https://www.youtube.com/c/DaveGrayTeachesCode)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
 
 # Websites You Should Know
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [CSS-Tricks](https://css-tricks.com/)
-
+- [W3schools](https://www.w3schools.com/)
